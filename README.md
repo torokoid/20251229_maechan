@@ -304,7 +304,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br>
 
-<h2><span class="yellow">今日の一曲は、Prince - Purple Rain (Live At Paisley Park, 1999)、かなりマニアック<br>ご本人は2026年に鎮痛剤の過剰摂取で57歳で他界されてます</span></h2>
+<h2><span class="yellow">今日の一曲は、Prince - Purple Rain (Live At Paisley Park, 1999)、かなりマニアック<br>ご本人は2016年に鎮痛剤の過剰摂取で57歳で他界されてます</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ryT-ltTDCko?si=0xdLLZhW6j78CnUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
